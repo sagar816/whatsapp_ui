@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:whatsapp_ui/pages/chat_page.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
@@ -69,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage>
           // ignore: prefer_const_literals_to_create_immutables
           children: [
             Text('Camera'),
-            Text('Chat'),
+            ChatPage(),
             Text('Status'),
             Text('Call'),
           ],  
