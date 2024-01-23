@@ -38,7 +38,7 @@ Create a state and make a build
 
 In this a a list will be there where data will come from database from API, but here we will make a amodel, from where data will be fetched.
 
-
+46.01
 
 
 
